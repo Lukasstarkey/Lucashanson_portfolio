@@ -1,6 +1,16 @@
 # Data scientist
+lukasstarkey@gmail.com
 
 # Education
+Institute of Data (AUT Accredited)  Feb 2023 - Ending Aug 2023
+Professional Certificate in Data Science, Machine learning & Artificial Intelligence
+	Foundational Data Science
+	Core Data Science and AI Skills
+	Applying Data Science Industry
+	Soft Skills as a Data Scientist
+	Learning to Learn Framework
+	Capstone Project
+
 
 # Projects
 Machine learning for rentals
