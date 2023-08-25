@@ -20,11 +20,13 @@ Utilizing tabular data acquired via Official Information Act (OIA) inquiries fro
 
 ![](/Data Science portfolio/capstone_slide1.png)
 
-![](/Data Science portfolio/capstone_slide2.png)
+![](/Data Science portfolio/capstone_sile2.png)
 
-![](/Data Science portfolio/capstone_slide3.png)
+![](/Data Science portfolio/capstone_silde3.png)
 
-![](/Data Science portfolio/capstone_slide4.png)
+![](/Data Science portfolio/capstone_silde4.png)
+
+![](/Data Science portfolio/capstone_slide5.png)
 
 Restaurant review sentement analysis
 
