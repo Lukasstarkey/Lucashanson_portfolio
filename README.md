@@ -32,7 +32,7 @@ Developed and trained a classification model designed to forecast positive senti
 
 ![Final confusion matrix](/Data Science portfolio/reviews_silde1.png)
 
-![Model evaluation](/Data Science portfolio/reviews_silde2.png)
+![Model evaluation](/Data Science portfolio/reviews_slide2.png)
 
 UFO data analysis
 
