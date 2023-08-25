@@ -32,16 +32,21 @@ Restaurant review sentement analysis
 
 Developed and trained a classification model designed to forecast positive sentiment within reviews. These reviews are subsequently uploaded to the client's website. The project places significant importance on the model's ability to make accurate positive sentiment predictions.
 
-![Final confusion matrix](/Data Science portfolio/reviews_silde1.png)
+Final confusion matrix
+![](/Data Science portfolio/reviews_silde1.png)
 
-![Model evaluation](/Data Science portfolio/reviews_slide2.png)
+Model evaluation
+![](/Data Science portfolio/reviews_slide2.png)
 
 UFO data analysis
 
 Conducting a comprehensive data analysis, this study focuses on the geolocated and time-standardized UFO reports compiled by NUFORC (National UFO Reporting Center) spanning nearly a century of data.
 
-![UFO sightings distributions](/Data Science portfolio/ufo_slide1.png)
+UFO sightings distributions
+![](/Data Science portfolio/ufo_slide1.png)
 
-![Sightings in California](/Data Science portfolio/ufo_slide2.png)
+Sightings in California
+![](/Data Science portfolio/ufo_slide2.png)
 
-![Hypothesis testing](/Data Science portfolio/ufo_slide3.png)
+Hypothesis testing
+![](/Data Science portfolio/ufo_slide3.png)
