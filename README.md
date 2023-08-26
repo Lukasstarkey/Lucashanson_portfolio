@@ -14,7 +14,7 @@ Professional Certificate in Data Science, Machine learning & Artificial Intellig
 
 # Projects
 
-# Machine learning for rentals
+## Machine learning for rentals
 
 [full project link](https://github.com/Lukasstarkey/Rental-price-ML-tool)
 
