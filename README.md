@@ -56,5 +56,8 @@ UFO sightings distributions
 Sightings in California
 ![](/Data Science portfolio/ufo_slide2.png)
 
-Hypothesis testing
+Sightings in Florida
 ![](/Data Science portfolio/ufo_slide3.png)
+
+Hypothesis testing
+![](/Data Science portfolio/ufo_slide4.png)
