@@ -32,6 +32,7 @@ Utilizing tabular data acquired via Official Information Act (OIA) inquiries fro
 # Restaurant review sentement analysis
 
 [full project link](https://github.com/Lukasstarkey/Sentiment-Analysis-modeling/tree/main)
+
 Developed and trained a classification model designed to forecast positive sentiment within reviews. These reviews are subsequently uploaded to the client's website. The project places significant importance on the model's ability to make accurate positive sentiment predictions.
 
 Final confusion matrix
@@ -41,6 +42,8 @@ Model evaluation
 ![](/Data Science portfolio/reviews_slide2.png)
 
 # UFO data analysis
+
+[full project link](https://github.com/Lukasstarkey/UFO-data-analysis/tree/master)
 
 Conducting a comprehensive data analysis, this study focuses on the geolocated and time-standardized UFO reports compiled by NUFORC (National UFO Reporting Center) spanning nearly a century of data.
 
