@@ -1,7 +1,7 @@
 # Data scientist Jr
 lukasstarkey@gmail.com
 
-# Education
+<h1 style="font-size: 28px; color: #ADD8E6;">Education</h1>
 Institute of Data (AUT Accredited)  Feb 2023 - Ending Aug 2023
 Professional Certificate in Data Science, Machine learning & Artificial Intelligence
 	Foundational Data Science
@@ -12,7 +12,7 @@ Professional Certificate in Data Science, Machine learning & Artificial Intellig
 	Capstone Project
 
 
-# Projects
+<h1 style="font-size: 28px; color: #ADD8E6;">Projects</h1>
 
 ## Machine learning for rentals
 
@@ -32,7 +32,7 @@ Utilizing tabular data acquired via Official Information Act (OIA) inquiries fro
 
 ![](/Data Science portfolio/capstone_slide5.png)
 
-# Restaurant review sentement analysis
+## Restaurant review sentement analysis
 
 [full project link](https://github.com/Lukasstarkey/Sentiment-Analysis-modeling/tree/main)
 
@@ -44,7 +44,7 @@ Final confusion matrix
 Model evaluation
 ![](/Data Science portfolio/reviews_slide2.png)
 
-# UFO data analysis
+## UFO data analysis
 
 [full project link](https://github.com/Lukasstarkey/UFO-data-analysis/tree/master)
 
